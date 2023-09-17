@@ -18,11 +18,11 @@
  * @type boolean
  * @default false
  *	
- * @help this plugin allows you to flips the Battle Field Sprite layer around. 
- * Damage and State Icons Sprites are fliped (again) to compensate. 
+ * @help this plugin allows you to flip the battle field sprite layer around. 
+ * Damage and State Icons Sprites are fliped (again) to compensate so text and icons are reversed. 
  * 
- * Currently Effekseer Animations are not flipped. 
- * But the old style MV animation sprite are flipped.
+ * Currently Effekseer Animations are not flipped.
+ * But the old style MV battle animation spritesheet are flipped.
  *
  * It's possible sprites added by other pluggins to battle field will also be flipped. 
  */
